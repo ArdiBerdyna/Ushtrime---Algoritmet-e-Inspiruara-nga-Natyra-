@@ -1,0 +1,94 @@
+{
+    "scheduled_programs": [
+        {
+            "program_id": "412132_saturday_in_america_2026-01-04_0060",
+            "channel_id": 114,
+            "start": 60,
+            "end": 120
+        },
+        {
+            "program_id": "412199_protect_2026-01-04_0120",
+            "channel_id": 171,
+            "start": 120,
+            "end": 180
+        },
+        {
+            "program_id": "369746_indian_idol_2025_2026-01-04_0180",
+            "channel_id": 20,
+            "start": 180,
+            "end": 270
+        },
+        {
+            "program_id": "412192_free_ticket_2026-01-04_0270",
+            "channel_id": 165,
+            "start": 270,
+            "end": 300
+        },
+        {
+            "program_id": "412187_race_2026-01-04_0300",
+            "channel_id": 160,
+            "start": 300,
+            "end": 600
+        },
+        {
+            "program_id": "412176_keep_the_faith_give_appl_2026-01-04_0600",
+            "channel_id": 150,
+            "start": 600,
+            "end": 660
+        },
+        {
+            "program_id": "412103_chirikkum_thalika_ii_2026-01-04_0660",
+            "channel_id": 94,
+            "start": 660,
+            "end": 690
+        },
+        {
+            "program_id": "369735_bigg_boss_tamil_2026-01-04_0690",
+            "channel_id": 13,
+            "start": 690,
+            "end": 750
+        },
+        {
+            "program_id": "412157_where_worlds_collide_2026-01-04_0750",
+            "channel_id": 137,
+            "start": 750,
+            "end": 805
+        },
+        {
+            "program_id": "412156_shadow_love_2026-01-04_0805",
+            "channel_id": 136,
+            "start": 805,
+            "end": 850
+        },
+        {
+            "program_id": "412156_shadow_love_2026-01-04_0850",
+            "channel_id": 136,
+            "start": 850,
+            "end": 900
+        },
+        {
+            "program_id": "412115_rathnam_2026-01-04_0900",
+            "channel_id": 102,
+            "start": 900,
+            "end": 1080
+        },
+        {
+            "program_id": "412115_10_hours_2026-01-04_1080",
+            "channel_id": 102,
+            "start": 1080,
+            "end": 1200
+        },
+        {
+            "program_id": "369750_laliga_2025_26_tbc_v_tbc_2026-01-04_1200",
+            "channel_id": 22,
+            "start": 1200,
+            "end": 1315
+        },
+        {
+            "program_id": "369822_premier_league_2025_26_2026-01-04_1315",
+            "channel_id": 61,
+            "start": 1315,
+            "end": 1430
+        }
+    ]
+}

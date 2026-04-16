@@ -1,0 +1,22 @@
+{
+    "scheduled_programs": [
+        {
+            "program_id": "m_deportes7_es_m_deportes_8_2026-01-04_0000",
+            "channel_id": 143,
+            "start": 0,
+            "end": 720
+        },
+        {
+            "program_id": "rccelta_laliga_no_game_today_2026-01-04_1020",
+            "channel_id": 213,
+            "start": 1020,
+            "end": 1260
+        },
+        {
+            "program_id": "aljazeeraenglish_e_news_live_2026-01-04_1260",
+            "channel_id": 12,
+            "start": 1260,
+            "end": 1290
+        }
+    ]
+}

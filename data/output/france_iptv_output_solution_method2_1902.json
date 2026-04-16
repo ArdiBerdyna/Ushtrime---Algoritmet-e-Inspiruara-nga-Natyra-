@@ -1,0 +1,70 @@
+{
+    "scheduled_programs": [
+        {
+            "program_id": "turbo24_24_fr_turbo_2026-01-04_0000",
+            "channel_id": 371,
+            "start": 0,
+            "end": 435
+        },
+        {
+            "program_id": "8montblanc_fr_les_sorties_cin_2026-01-04_0435",
+            "channel_id": 7,
+            "start": 435,
+            "end": 480
+        },
+        {
+            "program_id": "beinsports3_fr_football_am_ricain_nfl_2026-01-04_0480",
+            "channel_id": 386,
+            "start": 480,
+            "end": 630
+        },
+        {
+            "program_id": "cnbceurope_fr_cnbc_sport_on_the_record_2026-01-04_0630",
+            "channel_id": 88,
+            "start": 630,
+            "end": 660
+        },
+        {
+            "program_id": "gong_fr_beautiful_gong_shim_2026-01-04_0660",
+            "channel_id": 178,
+            "start": 660,
+            "end": 740
+        },
+        {
+            "program_id": "6ter_fr_macgyver2016_2026-01-04_0740",
+            "channel_id": 5,
+            "start": 740,
+            "end": 800
+        },
+        {
+            "program_id": "6ter_fr_macgyver2016_2026-01-04_0800",
+            "channel_id": 5,
+            "start": 800,
+            "end": 850
+        },
+        {
+            "program_id": "c_sport_fr_bordeaux_b_gles_racing_9_2026-01-04_0850",
+            "channel_id": 53,
+            "start": 850,
+            "end": 955
+        },
+        {
+            "program_id": "beinsportsmax4_fr_football_efl_championshi_2026-01-04_0955",
+            "channel_id": 388,
+            "start": 955,
+            "end": 1080
+        },
+        {
+            "program_id": "rmcsportlive4_fr_cha_ne_v_nementielle_pou_2026-01-04_1080",
+            "channel_id": 295,
+            "start": 1080,
+            "end": 1380
+        },
+        {
+            "program_id": "france3_parisile_d_dolomites_pi_g_s_aux_som_2026-01-04_1380",
+            "channel_id": 163,
+            "start": 1380,
+            "end": 1435
+        }
+    ]
+}

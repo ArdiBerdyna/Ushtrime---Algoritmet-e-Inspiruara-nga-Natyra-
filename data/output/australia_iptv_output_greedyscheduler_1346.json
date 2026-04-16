@@ -1,0 +1,52 @@
+{
+    "scheduled_programs": [
+        {
+            "program_id": "melbournecityfc_a__signing_off_2026-01-04_0000",
+            "channel_id": 336,
+            "start": 0,
+            "end": 215
+        },
+        {
+            "program_id": "9gobrisbane_au_brisbane_international_d_2026-01-04_0480",
+            "channel_id": 74,
+            "start": 480,
+            "end": 720
+        },
+        {
+            "program_id": "10bolddarwin_au_ncis_2026-01-04_0720",
+            "channel_id": 2,
+            "start": 720,
+            "end": 775
+        },
+        {
+            "program_id": "10bolddarwin_au_ncis_2026-01-04_0775",
+            "channel_id": 2,
+            "start": 775,
+            "end": 831
+        },
+        {
+            "program_id": "espnplay30_au_no_match_today_2026-01-04_0840",
+            "channel_id": 215,
+            "start": 840,
+            "end": 1080
+        },
+        {
+            "program_id": "crime_2_au_ncis_new_orleans_2026-01-04_1160",
+            "channel_id": 179,
+            "start": 1160,
+            "end": 1205
+        },
+        {
+            "program_id": "10boldbrisbane_au_home_shopping_2026-01-04_1290",
+            "channel_id": 1,
+            "start": 1290,
+            "end": 1320
+        },
+        {
+            "program_id": "10boldbrisbane_au_home_shopping_2026-01-04_1320",
+            "channel_id": 1,
+            "start": 1320,
+            "end": 1350
+        }
+    ]
+}

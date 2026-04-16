@@ -1,0 +1,64 @@
+{
+    "scheduled_programs": [
+        {
+            "program_id": "470757_csi_miami_2026-01-04_0060",
+            "channel_id": 468,
+            "start": 60,
+            "end": 120
+        },
+        {
+            "program_id": "470883_live_nhl_hockey_2026-01-04_0120",
+            "channel_id": 594,
+            "start": 120,
+            "end": 300
+        },
+        {
+            "program_id": "470671_pok_mon_horizons_the_ser_2026-01-04_0300",
+            "channel_id": 382,
+            "start": 300,
+            "end": 330
+        },
+        {
+            "program_id": "470628_live_nhl_hockey_2026-01-04_0330",
+            "channel_id": 339,
+            "start": 330,
+            "end": 480
+        },
+        {
+            "program_id": "470564_tva_sports_3_info_2026-01-04_0480",
+            "channel_id": 275,
+            "start": 480,
+            "end": 840
+        },
+        {
+            "program_id": "470396_top_chef_canada_2026-01-04_0840",
+            "channel_id": 108,
+            "start": 840,
+            "end": 900
+        },
+        {
+            "program_id": "470416_nhl_center_ice_2026-01-04_0900",
+            "channel_id": 128,
+            "start": 900,
+            "end": 1200
+        },
+        {
+            "program_id": "470359_nhl_center_ice_2026-01-04_1200",
+            "channel_id": 71,
+            "start": 1200,
+            "end": 1320
+        },
+        {
+            "program_id": "470449_moi_et_mon_chien_2026-01-04_1320",
+            "channel_id": 161,
+            "start": 1320,
+            "end": 1380
+        },
+        {
+            "program_id": "470823_happu_ki_ultan_paltan_2026-01-04_1380",
+            "channel_id": 534,
+            "start": 1380,
+            "end": 1410
+        }
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "scheduled_programs": [
+        {
+            "program_id": "turbo24_24_fr_turbo_2026-01-04_0000",
+            "channel_id": 371,
+            "start": 0,
+            "end": 435
+        },
+        {
+            "program_id": "beinsportsmax9_fr_bein_sports_le_plus_gran_2026-01-04_0540",
+            "channel_id": 393,
+            "start": 540,
+            "end": 780
+        },
+        {
+            "program_id": "enquetescriminelle_enqu_tes_criminelles_2026-01-04_0780",
+            "channel_id": 128,
+            "start": 780,
+            "end": 830
+        },
+        {
+            "program_id": "eurosport360_6_fr_a_bient_t_sur_eurosport__2026-01-04_0930",
+            "channel_id": 136,
+            "start": 930,
+            "end": 1380
+        },
+        {
+            "program_id": "france3_haute_norm_dolomites_pi_g_s_aux_som_2026-01-04_1380",
+            "channel_id": 157,
+            "start": 1380,
+            "end": 1435
+        }
+    ]
+}

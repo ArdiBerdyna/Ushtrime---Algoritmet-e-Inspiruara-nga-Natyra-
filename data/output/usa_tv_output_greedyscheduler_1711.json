@@ -1,0 +1,100 @@
+{
+    "scheduled_programs": [
+        {
+            "program_id": "Channel_262_0",
+            "channel_id": 262,
+            "start": 360,
+            "end": 420
+        },
+        {
+            "program_id": "FOX_News_1",
+            "channel_id": 8,
+            "start": 420,
+            "end": 450
+        },
+        {
+            "program_id": "FOX_News_2",
+            "channel_id": 8,
+            "start": 450,
+            "end": 480
+        },
+        {
+            "program_id": "Channel_353_1",
+            "channel_id": 353,
+            "start": 480,
+            "end": 540
+        },
+        {
+            "program_id": "Channel_432_3",
+            "channel_id": 432,
+            "start": 540,
+            "end": 630
+        },
+        {
+            "program_id": "Channel_896_3",
+            "channel_id": 896,
+            "start": 630,
+            "end": 750
+        },
+        {
+            "program_id": "Channel_543_5",
+            "channel_id": 543,
+            "start": 750,
+            "end": 810
+        },
+        {
+            "program_id": "CNBC_5",
+            "channel_id": 33,
+            "start": 810,
+            "end": 870
+        },
+        {
+            "program_id": "Channel_466_10",
+            "channel_id": 466,
+            "start": 870,
+            "end": 990
+        },
+        {
+            "program_id": "Channel_356_8",
+            "channel_id": 356,
+            "start": 990,
+            "end": 1050
+        },
+        {
+            "program_id": "Channel_610_8",
+            "channel_id": 610,
+            "start": 1050,
+            "end": 1140
+        },
+        {
+            "program_id": "Channel_87_10",
+            "channel_id": 87,
+            "start": 1140,
+            "end": 1200
+        },
+        {
+            "program_id": "ESPN_15",
+            "channel_id": 5,
+            "start": 1200,
+            "end": 1290
+        },
+        {
+            "program_id": "ESPN_16",
+            "channel_id": 5,
+            "start": 1290,
+            "end": 1350
+        },
+        {
+            "program_id": "HLN_11",
+            "channel_id": 9,
+            "start": 1350,
+            "end": 1410
+        },
+        {
+            "program_id": "CNBC_14",
+            "channel_id": 33,
+            "start": 1410,
+            "end": 1440
+        }
+    ]
+}

@@ -1,0 +1,76 @@
+{
+    "scheduled_programs": [
+        {
+            "program_id": "m_laligatv3_es_m_laliga_3_2026-01-04_0000",
+            "channel_id": 156,
+            "start": 0,
+            "end": 720
+        },
+        {
+            "program_id": "324_es_not_cies_3catinfo_2026-01-04_0720",
+            "channel_id": 2,
+            "start": 720,
+            "end": 870
+        },
+        {
+            "program_id": "populartvmurcia_es_gu_a_de_cine_2026-01-04_0870",
+            "channel_id": 211,
+            "start": 870,
+            "end": 900
+        },
+        {
+            "program_id": "mezzo_es_concurso_de_ginebra_2025_2026-01-04_0900",
+            "channel_id": 190,
+            "start": 900,
+            "end": 990
+        },
+        {
+            "program_id": "m_laligauhd_es_m_laliga_hdr_2026-01-04_0990",
+            "channel_id": 161,
+            "start": 990,
+            "end": 1080
+        },
+        {
+            "program_id": "canaldecasa_es_minicasas_sorprendentes_2026-01-04_1080",
+            "channel_id": 48,
+            "start": 1080,
+            "end": 1112
+        },
+        {
+            "program_id": "m_series_es_la_promesa_2026-01-04_1115",
+            "channel_id": 181,
+            "start": 1115,
+            "end": 1175
+        },
+        {
+            "program_id": "m_series_es_malas_lenguas_2026-01-04_1175",
+            "channel_id": 181,
+            "start": 1175,
+            "end": 1230
+        },
+        {
+            "program_id": "laligatvbar_es_el_previo_de_la_jornada__2026-01-04_1230",
+            "channel_id": 124,
+            "start": 1230,
+            "end": 1260
+        },
+        {
+            "program_id": "aljazeeraenglish_e_news_live_2026-01-04_1260",
+            "channel_id": 12,
+            "start": 1260,
+            "end": 1290
+        },
+        {
+            "program_id": "aljazeeraenglish_e_inside_story_2026-01-04_1290",
+            "channel_id": 12,
+            "start": 1290,
+            "end": 1320
+        },
+        {
+            "program_id": "m_comedia_es_el_cambiazo_2026-01-04_1320",
+            "channel_id": 133,
+            "start": 1320,
+            "end": 1435
+        }
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "scheduled_programs": [
+        {
+            "program_id": "bbcr5sx_uk_the_ashes_2026-01-04_0000",
+            "channel_id": 115,
+            "start": 0,
+            "end": 540
+        },
+        {
+            "program_id": "astonvilla_epl_no_game_today_2026-01-04_0540",
+            "channel_id": 79,
+            "start": 540,
+            "end": 780
+        },
+        {
+            "program_id": "skyhistory2_uk_digging_for_britain_2026-01-04_0780",
+            "channel_id": 658,
+            "start": 780,
+            "end": 840
+        },
+        {
+            "program_id": "laligatv_uk_laliga_ea_sports_2025_20_2026-01-04_0840",
+            "channel_id": 410,
+            "start": 840,
+            "end": 975
+        },
+        {
+            "program_id": "laligatv_uk_laliga_ea_sports_2025_20_2026-01-04_0975",
+            "channel_id": 410,
+            "start": 975,
+            "end": 1110
+        },
+        {
+            "program_id": "virginone_1_ie_farewell_doc_martin_2026-01-04_1110",
+            "channel_id": 874,
+            "start": 1110,
+            "end": 1170
+        },
+        {
+            "program_id": "channel5_1_uk_nfl_big_game_night_green_2026-01-04_1170",
+            "channel_id": 179,
+            "start": 1170,
+            "end": 1410
+        }
+    ]
+}

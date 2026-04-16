@@ -1,0 +1,28 @@
+{
+    "scheduled_programs": [
+        {
+            "program_id": "bbcr5sx_uk_the_ashes_2026-01-04_0000",
+            "channel_id": 115,
+            "start": 0,
+            "end": 540
+        },
+        {
+            "program_id": "skysportstennis_uk_live_tennis_united_cup_2_2026-01-04_0720",
+            "channel_id": 784,
+            "start": 720,
+            "end": 990
+        },
+        {
+            "program_id": "wrneurope_uk_israel_radio_2026-01-04_0990",
+            "channel_id": 880,
+            "start": 990,
+            "end": 1020
+        },
+        {
+            "program_id": "arsenal_epl_no_game_today_2026-01-04_1020",
+            "channel_id": 78,
+            "start": 1020,
+            "end": 1260
+        }
+    ]
+}

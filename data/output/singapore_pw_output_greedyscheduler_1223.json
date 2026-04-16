@@ -1,0 +1,64 @@
+{
+    "scheduled_programs": [
+        {
+            "program_id": "412132_saturday_in_america_2026-01-04_0060",
+            "channel_id": 114,
+            "start": 60,
+            "end": 120
+        },
+        {
+            "program_id": "412151_ep_1719_leslie_jones_ame_2026-01-04_0120",
+            "channel_id": 132,
+            "start": 120,
+            "end": 180
+        },
+        {
+            "program_id": "412142_go_fighting_2026-01-04_0227",
+            "channel_id": 123,
+            "start": 227,
+            "end": 311
+        },
+        {
+            "program_id": "369722_news_2026-01-04_0360",
+            "channel_id": 5,
+            "start": 360,
+            "end": 415
+        },
+        {
+            "program_id": "412167_laliga_2025_26_celta_vig_2026-01-04_0420",
+            "channel_id": 143,
+            "start": 420,
+            "end": 530
+        },
+        {
+            "program_id": "412165_mega_fights_sergio_marti_2026-01-04_0840",
+            "channel_id": 142,
+            "start": 840,
+            "end": 990
+        },
+        {
+            "program_id": "412116_news_2026-01-04_0990",
+            "channel_id": 103,
+            "start": 990,
+            "end": 1020
+        },
+        {
+            "program_id": "412116_movie_p_t_sir_u_2026-01-04_1020",
+            "channel_id": 103,
+            "start": 1020,
+            "end": 1200
+        },
+        {
+            "program_id": "369750_laliga_2025_26_tbc_v_tbc_2026-01-04_1200",
+            "channel_id": 22,
+            "start": 1200,
+            "end": 1315
+        },
+        {
+            "program_id": "369822_premier_league_2025_26_2026-01-04_1315",
+            "channel_id": 61,
+            "start": 1315,
+            "end": 1430
+        }
+    ]
+}

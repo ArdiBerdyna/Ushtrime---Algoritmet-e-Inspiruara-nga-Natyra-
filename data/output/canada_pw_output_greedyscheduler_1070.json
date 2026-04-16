@@ -1,0 +1,34 @@
+{
+    "scheduled_programs": [
+        {
+            "program_id": "470757_csi_miami_2026-01-04_0060",
+            "channel_id": 468,
+            "start": 60,
+            "end": 120
+        },
+        {
+            "program_id": "470883_live_nhl_hockey_2026-01-04_0120",
+            "channel_id": 594,
+            "start": 120,
+            "end": 300
+        },
+        {
+            "program_id": "470671_pok_mon_horizons_the_ser_2026-01-04_0300",
+            "channel_id": 382,
+            "start": 300,
+            "end": 330
+        },
+        {
+            "program_id": "470564_tva_sports_3_info_2026-01-04_0480",
+            "channel_id": 275,
+            "start": 480,
+            "end": 840
+        },
+        {
+            "program_id": "470350_sportsnet_one_vancouver__2026-01-04_1140",
+            "channel_id": 62,
+            "start": 1140,
+            "end": 1380
+        }
+    ]
+}
