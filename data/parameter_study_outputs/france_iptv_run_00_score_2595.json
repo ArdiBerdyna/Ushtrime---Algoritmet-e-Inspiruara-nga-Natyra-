@@ -1,0 +1,118 @@
+{
+    "scheduled_programs": [
+        {
+            "program_id": "turbo24_24_fr_turbo_2026-01-04_0000",
+            "channel_id": 371,
+            "start": 0,
+            "end": 435
+        },
+        {
+            "program_id": "8montblanc_fr_les_sorties_cin_2026-01-04_0435",
+            "channel_id": 7,
+            "start": 435,
+            "end": 480
+        },
+        {
+            "program_id": "beinsports3_fr_football_am_ricain_nfl_2026-01-04_0480",
+            "channel_id": 386,
+            "start": 480,
+            "end": 630
+        },
+        {
+            "program_id": "cnbceurope_fr_cnbc_sport_on_the_record_2026-01-04_0630",
+            "channel_id": 88,
+            "start": 630,
+            "end": 660
+        },
+        {
+            "program_id": "gong_fr_beautiful_gong_shim_2026-01-04_0660",
+            "channel_id": 178,
+            "start": 660,
+            "end": 740
+        },
+        {
+            "program_id": "6ter_fr_macgyver2016_2026-01-04_0740",
+            "channel_id": 5,
+            "start": 740,
+            "end": 800
+        },
+        {
+            "program_id": "6ter_fr_macgyver2016_2026-01-04_0800",
+            "channel_id": 5,
+            "start": 800,
+            "end": 850
+        },
+        {
+            "program_id": "francetvseries_les_gouttes_de_dieu_2026-01-04_0850",
+            "channel_id": 174,
+            "start": 850,
+            "end": 902
+        },
+        {
+            "program_id": "francetvseries_les_gouttes_de_dieu_2026-01-04_0902",
+            "channel_id": 174,
+            "start": 902,
+            "end": 959
+        },
+        {
+            "program_id": "francetvseries_les_gouttes_de_dieu_2026-01-04_0959",
+            "channel_id": 174,
+            "start": 959,
+            "end": 1012
+        },
+        {
+            "program_id": "scienceetvietv_fr_les_technologies_de_dema_2026-01-04_1015",
+            "channel_id": 316,
+            "start": 1015,
+            "end": 1070
+        },
+        {
+            "program_id": "scienceetvietv_fr_les_technologies_de_dema_2026-01-04_1070",
+            "channel_id": 316,
+            "start": 1070,
+            "end": 1130
+        },
+        {
+            "program_id": "novelastv_fr_passion_et_pouvoir_saiso_2026-01-04_1130",
+            "channel_id": 240,
+            "start": 1130,
+            "end": 1180
+        },
+        {
+            "program_id": "novelastv_fr_passion_et_pouvoir_saiso_2026-01-04_1180",
+            "channel_id": 240,
+            "start": 1180,
+            "end": 1230
+        },
+        {
+            "program_id": "mggtv_fr_paris_games_week_2026-01-04_1230",
+            "channel_id": 222,
+            "start": 1230,
+            "end": 1270
+        },
+        {
+            "program_id": "mggtv_fr_paris_games_week_2026-01-04_1270",
+            "channel_id": 222,
+            "start": 1270,
+            "end": 1320
+        },
+        {
+            "program_id": "voxafrica_fr_entre_temps_2026-01-04_1320",
+            "channel_id": 377,
+            "start": 1320,
+            "end": 1350
+        },
+        {
+            "program_id": "voxafrica_fr_let_s_focus_on_2026-01-04_1350",
+            "channel_id": 377,
+            "start": 1350,
+            "end": 1380
+        },
+        {
+            "program_id": "france3_paysdeloir_dolomites_pi_g_s_aux_som_2026-01-04_1380",
+            "channel_id": 164,
+            "start": 1380,
+            "end": 1435
+        }
+    ]
+}

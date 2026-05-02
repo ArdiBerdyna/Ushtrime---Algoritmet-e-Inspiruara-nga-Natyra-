@@ -1,0 +1,82 @@
+{
+    "scheduled_programs": [
+        {
+            "program_id": "bbcr5sx_uk_the_ashes_2026-01-04_0000",
+            "channel_id": 115,
+            "start": 0,
+            "end": 540
+        },
+        {
+            "program_id": "astonvilla_epl_no_game_today_2026-01-04_0540",
+            "channel_id": 79,
+            "start": 540,
+            "end": 780
+        },
+        {
+            "program_id": "pitaara_uk_kaato_kaahto_2026-01-04_0780",
+            "channel_id": 516,
+            "start": 780,
+            "end": 810
+        },
+        {
+            "program_id": "itv1central_1_uk_efl_live_birmingham_city_2026-01-04_0810",
+            "channel_id": 361,
+            "start": 810,
+            "end": 980
+        },
+        {
+            "program_id": "uandalibi_uk_death_in_paradise_2026-01-04_0980",
+            "channel_id": 851,
+            "start": 980,
+            "end": 1060
+        },
+        {
+            "program_id": "islambangla_uk_muhammad_final_legacy_2026-01-04_1060",
+            "channel_id": 391,
+            "start": 1060,
+            "end": 1090
+        },
+        {
+            "program_id": "bbconewales_uk_our_lives_dolphin_town_2026-01-04_1090",
+            "channel_id": 102,
+            "start": 1090,
+            "end": 1120
+        },
+        {
+            "program_id": "virgintvultra_uk_fantastic_friends_2026-01-04_1120",
+            "channel_id": 877,
+            "start": 1120,
+            "end": 1175
+        },
+        {
+            "program_id": "virgintvultra_uk_fantastic_friends_2026-01-04_1175",
+            "channel_id": 877,
+            "start": 1175,
+            "end": 1225
+        },
+        {
+            "program_id": "more4_uk_four_in_a_bed_2026-01-04_1225",
+            "channel_id": 445,
+            "start": 1225,
+            "end": 1255
+        },
+        {
+            "program_id": "more4_uk_the_dog_house_2026-01-04_1255",
+            "channel_id": 445,
+            "start": 1255,
+            "end": 1320
+        },
+        {
+            "program_id": "cartoonito_uk_lu_and_the_bally_bunch_2026-01-04_1320",
+            "channel_id": 174,
+            "start": 1320,
+            "end": 1380
+        },
+        {
+            "program_id": "wrneurope_uk_deutsche_welle_2026-01-04_1380",
+            "channel_id": 880,
+            "start": 1380,
+            "end": 1410
+        }
+    ]
+}

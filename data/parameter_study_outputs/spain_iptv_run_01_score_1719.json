@@ -1,0 +1,58 @@
+{
+    "scheduled_programs": [
+        {
+            "program_id": "m_ligadecampeones1_m_liga_de_campeones_13_2026-01-04_0000",
+            "channel_id": 166,
+            "start": 0,
+            "end": 720
+        },
+        {
+            "program_id": "laligatvbar3_es_primera_federaci_n_2026-01-04_0720",
+            "channel_id": 115,
+            "start": 720,
+            "end": 840
+        },
+        {
+            "program_id": "laligatvbar3_es_pr_ximo_partido_zaragoza_2026-01-04_0840",
+            "channel_id": 115,
+            "start": 840,
+            "end": 1110
+        },
+        {
+            "program_id": "laligatvbar3_es_laliga_hypermotion_2026-01-04_1110",
+            "channel_id": 115,
+            "start": 1110,
+            "end": 1230
+        },
+        {
+            "program_id": "telesur_es_telesur_noticias_2026-01-04_1230",
+            "channel_id": 255,
+            "start": 1230,
+            "end": 1260
+        },
+        {
+            "program_id": "bbcworld_es_bbc_world_news_2026-01-04_1260",
+            "channel_id": 28,
+            "start": 1260,
+            "end": 1290
+        },
+        {
+            "program_id": "bbcworld_es_discovering_the_world_s__2026-01-04_1290",
+            "channel_id": 28,
+            "start": 1290,
+            "end": 1320
+        },
+        {
+            "program_id": "ztv_es_cine_2026-01-04_1320",
+            "channel_id": 267,
+            "start": 1320,
+            "end": 1395
+        },
+        {
+            "program_id": "cazaypesca_es_al_acecho_caza_2026-01-04_1395",
+            "channel_id": 57,
+            "start": 1395,
+            "end": 1425
+        }
+    ]
+}

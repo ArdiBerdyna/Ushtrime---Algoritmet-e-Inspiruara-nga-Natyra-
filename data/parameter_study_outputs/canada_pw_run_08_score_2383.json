@@ -1,0 +1,106 @@
+{
+    "scheduled_programs": [
+        {
+            "program_id": "470757_csi_miami_2026-01-04_0060",
+            "channel_id": 468,
+            "start": 60,
+            "end": 120
+        },
+        {
+            "program_id": "470883_live_nhl_hockey_2026-01-04_0120",
+            "channel_id": 594,
+            "start": 120,
+            "end": 300
+        },
+        {
+            "program_id": "470671_pok_mon_horizons_the_ser_2026-01-04_0300",
+            "channel_id": 382,
+            "start": 300,
+            "end": 330
+        },
+        {
+            "program_id": "470628_live_nhl_hockey_2026-01-04_0330",
+            "channel_id": 339,
+            "start": 330,
+            "end": 480
+        },
+        {
+            "program_id": "470564_tva_sports_3_info_2026-01-04_0480",
+            "channel_id": 275,
+            "start": 480,
+            "end": 840
+        },
+        {
+            "program_id": "470488_top_chef_canada_2026-01-04_0840",
+            "channel_id": 200,
+            "start": 840,
+            "end": 902
+        },
+        {
+            "program_id": "470488_global_news_at_11_2026-01-04_0902",
+            "channel_id": 200,
+            "start": 902,
+            "end": 935
+        },
+        {
+            "program_id": "470649_ncis_hawai_i_2026-01-04_0935",
+            "channel_id": 360,
+            "start": 935,
+            "end": 995
+        },
+        {
+            "program_id": "470625_ktla_5_sports_final_2026-01-04_0995",
+            "channel_id": 336,
+            "start": 995,
+            "end": 1025
+        },
+        {
+            "program_id": "470625_the_silver_and_black_sho_2026-01-04_1025",
+            "channel_id": 336,
+            "start": 1025,
+            "end": 1055
+        },
+        {
+            "program_id": "470380_the_rookie_2026-01-04_1055",
+            "channel_id": 92,
+            "start": 1055,
+            "end": 1115
+        },
+        {
+            "program_id": "470380_rateescape_stop_overpayi_2026-01-04_1115",
+            "channel_id": 92,
+            "start": 1115,
+            "end": 1145
+        },
+        {
+            "program_id": "470419_below_her_mouth_2026-01-04_1145",
+            "channel_id": 131,
+            "start": 1145,
+            "end": 1240
+        },
+        {
+            "program_id": "470419_real_time_2026-01-04_1240",
+            "channel_id": 131,
+            "start": 1240,
+            "end": 1320
+        },
+        {
+            "program_id": "470824_faith_to_live_by_2026-01-04_1320",
+            "channel_id": 535,
+            "start": 1320,
+            "end": 1350
+        },
+        {
+            "program_id": "470778_the_littlest_hobo_2026-01-04_1350",
+            "channel_id": 489,
+            "start": 1350,
+            "end": 1380
+        },
+        {
+            "program_id": "470823_happu_ki_ultan_paltan_2026-01-04_1380",
+            "channel_id": 534,
+            "start": 1380,
+            "end": 1410
+        }
+    ]
+}

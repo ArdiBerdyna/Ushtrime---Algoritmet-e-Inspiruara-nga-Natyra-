@@ -1,0 +1,70 @@
+{
+    "scheduled_programs": [
+        {
+            "program_id": "moviesforgamers_pl_movies_for_gamers_2026-01-04_0000",
+            "channel_id": 5823,
+            "start": 0,
+            "end": 720
+        },
+        {
+            "program_id": "14kjzz_us_positively_america_with__2026-01-04_0720",
+            "channel_id": 0,
+            "start": 720,
+            "end": 750
+        },
+        {
+            "program_id": "14kjzz_us_small_town_big_deal_2026-01-04_0750",
+            "channel_id": 0,
+            "start": 750,
+            "end": 780
+        },
+        {
+            "program_id": "hartfordwolfpack_a_no_game_today_2026-01-04_0780",
+            "channel_id": 5084,
+            "start": 780,
+            "end": 1020
+        },
+        {
+            "program_id": "nbaleaguepass9_us_nba_league_pass_2026-01-04_1020",
+            "channel_id": 5993,
+            "start": 1020,
+            "end": 1200
+        },
+        {
+            "program_id": "23newswvua_us_wild_child_2026-01-04_1200",
+            "channel_id": 1,
+            "start": 1200,
+            "end": 1230
+        },
+        {
+            "program_id": "23newswvua_us_wild_child_2026-01-04_1230",
+            "channel_id": 1,
+            "start": 1230,
+            "end": 1260
+        },
+        {
+            "program_id": "23newswvua_us_beulah_baptist_church_of_2026-01-04_1260",
+            "channel_id": 1,
+            "start": 1260,
+            "end": 1290
+        },
+        {
+            "program_id": "23newswvua_us_miracle_deliverance_temp_2026-01-04_1290",
+            "channel_id": 1,
+            "start": 1290,
+            "end": 1320
+        },
+        {
+            "program_id": "23newswvua_us_tommy_wilcox_outdoors_2026-01-04_1320",
+            "channel_id": 1,
+            "start": 1320,
+            "end": 1350
+        },
+        {
+            "program_id": "23newswvua_us_paid_programming_2026-01-04_1350",
+            "channel_id": 1,
+            "start": 1350,
+            "end": 1380
+        }
+    ]
+}

@@ -1,0 +1,160 @@
+{
+    "scheduled_programs": [
+        {
+            "program_id": "429984_sky_news_today_2026-01-04_0060",
+            "channel_id": 179,
+            "start": 60,
+            "end": 90
+        },
+        {
+            "program_id": "369746_kaun_banega_crorepati_20_2026-01-04_0090",
+            "channel_id": 20,
+            "start": 90,
+            "end": 180
+        },
+        {
+            "program_id": "369746_indian_idol_2025_2026-01-04_0180",
+            "channel_id": 20,
+            "start": 180,
+            "end": 270
+        },
+        {
+            "program_id": "435717_movie_2026-01-04_0270",
+            "channel_id": 182,
+            "start": 270,
+            "end": 330
+        },
+        {
+            "program_id": "412092_theresa_may_and_the_brut_2026-01-04_0330",
+            "channel_id": 84,
+            "start": 330,
+            "end": 360
+        },
+        {
+            "program_id": "369722_news_2026-01-04_0360",
+            "channel_id": 5,
+            "start": 360,
+            "end": 415
+        },
+        {
+            "program_id": "412162_mr_funny_bone_2026-01-04_0415",
+            "channel_id": 140,
+            "start": 415,
+            "end": 510
+        },
+        {
+            "program_id": "412151_ep_201_the_owner_s_box_2026-01-04_0510",
+            "channel_id": 132,
+            "start": 510,
+            "end": 540
+        },
+        {
+            "program_id": "412200_sound_trek_2025_2026-01-04_0540",
+            "channel_id": 172,
+            "start": 540,
+            "end": 660
+        },
+        {
+            "program_id": "412103_chirikkum_thalika_ii_2026-01-04_0660",
+            "channel_id": 94,
+            "start": 660,
+            "end": 690
+        },
+        {
+            "program_id": "369735_bigg_boss_tamil_2026-01-04_0690",
+            "channel_id": 13,
+            "start": 690,
+            "end": 750
+        },
+        {
+            "program_id": "412157_where_worlds_collide_2026-01-04_0750",
+            "channel_id": 137,
+            "start": 750,
+            "end": 805
+        },
+        {
+            "program_id": "412156_shadow_love_2026-01-04_0805",
+            "channel_id": 136,
+            "start": 805,
+            "end": 850
+        },
+        {
+            "program_id": "412156_shadow_love_2026-01-04_0850",
+            "channel_id": 136,
+            "start": 850,
+            "end": 900
+        },
+        {
+            "program_id": "412092_bloomberg_next_africa_2026-01-04_0900",
+            "channel_id": 84,
+            "start": 900,
+            "end": 930
+        },
+        {
+            "program_id": "369824_terbelenggu_rindu_eps_42_2026-01-04_0930",
+            "channel_id": 62,
+            "start": 930,
+            "end": 990
+        },
+        {
+            "program_id": "369771_bloomberg_studio_1_0_2026-01-04_0990",
+            "channel_id": 32,
+            "start": 990,
+            "end": 1020
+        },
+        {
+            "program_id": "412197_fashion_teens_2026-01-04_1020",
+            "channel_id": 169,
+            "start": 1020,
+            "end": 1050
+        },
+        {
+            "program_id": "412090_shiva_shakthi_thiruvilay_2026-01-04_1050",
+            "channel_id": 82,
+            "start": 1050,
+            "end": 1080
+        },
+        {
+            "program_id": "412165_biomechanics_of_body_pre_2026-01-04_1080",
+            "channel_id": 142,
+            "start": 1080,
+            "end": 1110
+        },
+        {
+            "program_id": "412165_rabat_2023_episode_1_2026-01-04_1110",
+            "channel_id": 142,
+            "start": 1110,
+            "end": 1140
+        },
+        {
+            "program_id": "369713_fox_news_saturday_night__2026-01-04_1140",
+            "channel_id": 0,
+            "start": 1140,
+            "end": 1200
+        },
+        {
+            "program_id": "412149_1800_1900_evening_news_2026-01-04_1200",
+            "channel_id": 130,
+            "start": 1200,
+            "end": 1260
+        },
+        {
+            "program_id": "412193_genius_go_go_go_2026-01-04_1260",
+            "channel_id": 166,
+            "start": 1260,
+            "end": 1320
+        },
+        {
+            "program_id": "412165_in_hong_kong_2026-01-04_1320",
+            "channel_id": 142,
+            "start": 1320,
+            "end": 1380
+        },
+        {
+            "program_id": "412151_ep_10_heidelburg_materia_2026-01-04_1380",
+            "channel_id": 132,
+            "start": 1380,
+            "end": 1410
+        }
+    ]
+}

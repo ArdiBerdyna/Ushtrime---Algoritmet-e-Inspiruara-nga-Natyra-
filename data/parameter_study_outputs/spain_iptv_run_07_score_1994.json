@@ -1,0 +1,76 @@
+{
+    "scheduled_programs": [
+        {
+            "program_id": "m_deportes7_es_m_deportes_8_2026-01-04_0000",
+            "channel_id": 143,
+            "start": 0,
+            "end": 720
+        },
+        {
+            "program_id": "324_es_not_cies_3catinfo_2026-01-04_0720",
+            "channel_id": 2,
+            "start": 720,
+            "end": 870
+        },
+        {
+            "program_id": "populartvmurcia_es_gu_a_de_cine_2026-01-04_0870",
+            "channel_id": 211,
+            "start": 870,
+            "end": 900
+        },
+        {
+            "program_id": "mezzo_es_concurso_de_ginebra_2025_2026-01-04_0900",
+            "channel_id": 190,
+            "start": 900,
+            "end": 990
+        },
+        {
+            "program_id": "m_laligauhd_es_m_laliga_hdr_2026-01-04_0990",
+            "channel_id": 161,
+            "start": 990,
+            "end": 1080
+        },
+        {
+            "program_id": "aljazeeraenglish_e_news_live_2026-01-04_1080",
+            "channel_id": 12,
+            "start": 1080,
+            "end": 1110
+        },
+        {
+            "program_id": "324_es_not_cies_3catinfo_2026-01-04_1110",
+            "channel_id": 2,
+            "start": 1110,
+            "end": 1200
+        },
+        {
+            "program_id": "tvchile_es_chile_conectado_2026-01-04_1200",
+            "channel_id": 242,
+            "start": 1200,
+            "end": 1230
+        },
+        {
+            "program_id": "telesur_es_telesur_noticias_2026-01-04_1230",
+            "channel_id": 255,
+            "start": 1230,
+            "end": 1260
+        },
+        {
+            "program_id": "aljazeeraenglish_e_news_live_2026-01-04_1260",
+            "channel_id": 12,
+            "start": 1260,
+            "end": 1290
+        },
+        {
+            "program_id": "andaluciatv_es_lances_2026-01-04_1290",
+            "channel_id": 15,
+            "start": 1290,
+            "end": 1370
+        },
+        {
+            "program_id": "m_originales_es_el_cielo_puede_esperar_2026-01-04_1371",
+            "channel_id": 179,
+            "start": 1371,
+            "end": 1432
+        }
+    ]
+}

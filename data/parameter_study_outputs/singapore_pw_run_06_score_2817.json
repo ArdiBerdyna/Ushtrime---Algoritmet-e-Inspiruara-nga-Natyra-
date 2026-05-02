@@ -1,0 +1,154 @@
+{
+    "scheduled_programs": [
+        {
+            "program_id": "412149_late_night_vision_2026-01-04_0060",
+            "channel_id": 130,
+            "start": 60,
+            "end": 120
+        },
+        {
+            "program_id": "412151_ep_1719_leslie_jones_ame_2026-01-04_0120",
+            "channel_id": 132,
+            "start": 120,
+            "end": 180
+        },
+        {
+            "program_id": "412135_mystery_files_2026-01-04_0180",
+            "channel_id": 117,
+            "start": 180,
+            "end": 240
+        },
+        {
+            "program_id": "451931_movie_2026-01-04_0240",
+            "channel_id": 186,
+            "start": 240,
+            "end": 330
+        },
+        {
+            "program_id": "412092_theresa_may_and_the_brut_2026-01-04_0330",
+            "channel_id": 84,
+            "start": 330,
+            "end": 360
+        },
+        {
+            "program_id": "369722_news_2026-01-04_0360",
+            "channel_id": 5,
+            "start": 360,
+            "end": 415
+        },
+        {
+            "program_id": "412162_mr_funny_bone_2026-01-04_0415",
+            "channel_id": 140,
+            "start": 415,
+            "end": 510
+        },
+        {
+            "program_id": "369813_cnbc_sport_on_the_record_2026-01-04_0510",
+            "channel_id": 55,
+            "start": 510,
+            "end": 540
+        },
+        {
+            "program_id": "412200_sound_trek_2025_2026-01-04_0540",
+            "channel_id": 172,
+            "start": 540,
+            "end": 660
+        },
+        {
+            "program_id": "412103_chirikkum_thalika_ii_2026-01-04_0660",
+            "channel_id": 94,
+            "start": 660,
+            "end": 690
+        },
+        {
+            "program_id": "369735_bigg_boss_tamil_2026-01-04_0690",
+            "channel_id": 13,
+            "start": 690,
+            "end": 750
+        },
+        {
+            "program_id": "369735_bigg_boss_tamil_plus_2026-01-04_0750",
+            "channel_id": 13,
+            "start": 750,
+            "end": 780
+        },
+        {
+            "program_id": "412103_chirikkum_thalika_ii_2026-01-04_0780",
+            "channel_id": 94,
+            "start": 780,
+            "end": 810
+        },
+        {
+            "program_id": "482822_569_2026-01-04_0810",
+            "channel_id": 198,
+            "start": 810,
+            "end": 840
+        },
+        {
+            "program_id": "482822_east_asia_super_league_2_2026-01-04_0840",
+            "channel_id": 198,
+            "start": 840,
+            "end": 960
+        },
+        {
+            "program_id": "412092_the_mishal_husain_show_2026-01-04_0960",
+            "channel_id": 84,
+            "start": 960,
+            "end": 990
+        },
+        {
+            "program_id": "412092_the_mishal_husain_show_2026-01-04_0990",
+            "channel_id": 84,
+            "start": 990,
+            "end": 1020
+        },
+        {
+            "program_id": "369760_sour_salty_and_alive_s1_2026-01-04_1020",
+            "channel_id": 27,
+            "start": 1020,
+            "end": 1050
+        },
+        {
+            "program_id": "369760_sour_salty_and_alive_s1_2026-01-04_1050",
+            "channel_id": 27,
+            "start": 1050,
+            "end": 1080
+        },
+        {
+            "program_id": "484245_gold_fever_season_3_2026-01-04_1080",
+            "channel_id": 209,
+            "start": 1080,
+            "end": 1140
+        },
+        {
+            "program_id": "412176_cti_news_live_2026-01-04_1140",
+            "channel_id": 150,
+            "start": 1140,
+            "end": 1200
+        },
+        {
+            "program_id": "412165_mega_fights_in_60_jean_p_2026-01-04_1200",
+            "channel_id": 142,
+            "start": 1200,
+            "end": 1260
+        },
+        {
+            "program_id": "412149_2000_evening_news_2026-01-04_1260",
+            "channel_id": 130,
+            "start": 1260,
+            "end": 1320
+        },
+        {
+            "program_id": "412189_phoenix_evening_express__2026-01-04_1320",
+            "channel_id": 162,
+            "start": 1320,
+            "end": 1380
+        },
+        {
+            "program_id": "412151_ep_10_heidelburg_materia_2026-01-04_1380",
+            "channel_id": 132,
+            "start": 1380,
+            "end": 1410
+        }
+    ]
+}

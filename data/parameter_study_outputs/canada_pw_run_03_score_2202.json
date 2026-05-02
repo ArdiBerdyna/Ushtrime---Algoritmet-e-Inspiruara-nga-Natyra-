@@ -1,0 +1,82 @@
+{
+    "scheduled_programs": [
+        {
+            "program_id": "470757_csi_miami_2026-01-04_0060",
+            "channel_id": 468,
+            "start": 60,
+            "end": 120
+        },
+        {
+            "program_id": "470883_live_nhl_hockey_2026-01-04_0120",
+            "channel_id": 594,
+            "start": 120,
+            "end": 300
+        },
+        {
+            "program_id": "470671_pok_mon_horizons_the_ser_2026-01-04_0300",
+            "channel_id": 382,
+            "start": 300,
+            "end": 330
+        },
+        {
+            "program_id": "470451_live_nhl_hockey_2026-01-04_0330",
+            "channel_id": 163,
+            "start": 330,
+            "end": 510
+        },
+        {
+            "program_id": "470627_nhl_center_ice_2026-01-04_0510",
+            "channel_id": 338,
+            "start": 510,
+            "end": 870
+        },
+        {
+            "program_id": "470755_movie_2026-01-04_0870",
+            "channel_id": 466,
+            "start": 870,
+            "end": 1050
+        },
+        {
+            "program_id": "470340_french_ligue_1_soccer_2026-01-04_1050",
+            "channel_id": 52,
+            "start": 1050,
+            "end": 1170
+        },
+        {
+            "program_id": "470463_sports_30_2026-01-04_1170",
+            "channel_id": 175,
+            "start": 1170,
+            "end": 1200
+        },
+        {
+            "program_id": "470913_omni_news_punjabi_editio_2026-01-04_1200",
+            "channel_id": 624,
+            "start": 1200,
+            "end": 1230
+        },
+        {
+            "program_id": "470339_sports_30_2026-01-04_1230",
+            "channel_id": 51,
+            "start": 1230,
+            "end": 1260
+        },
+        {
+            "program_id": "470842_sportscentre_2026-01-04_1260",
+            "channel_id": 553,
+            "start": 1260,
+            "end": 1320
+        },
+        {
+            "program_id": "470341_entertainment_tonight_2026-01-04_1320",
+            "channel_id": 53,
+            "start": 1320,
+            "end": 1380
+        },
+        {
+            "program_id": "470823_happu_ki_ultan_paltan_2026-01-04_1380",
+            "channel_id": 534,
+            "start": 1380,
+            "end": 1410
+        }
+    ]
+}

@@ -1,0 +1,160 @@
+{
+    "scheduled_programs": [
+        {
+            "program_id": "429564_saleha_2026-01-04_0060",
+            "channel_id": 178,
+            "start": 60,
+            "end": 120
+        },
+        {
+            "program_id": "412151_ep_1719_leslie_jones_ame_2026-01-04_0120",
+            "channel_id": 132,
+            "start": 120,
+            "end": 180
+        },
+        {
+            "program_id": "412135_mystery_files_2026-01-04_0180",
+            "channel_id": 117,
+            "start": 180,
+            "end": 240
+        },
+        {
+            "program_id": "451931_movie_2026-01-04_0240",
+            "channel_id": 186,
+            "start": 240,
+            "end": 330
+        },
+        {
+            "program_id": "435717_movie_2026-01-04_0330",
+            "channel_id": 182,
+            "start": 330,
+            "end": 420
+        },
+        {
+            "program_id": "435717_engile_ennodu_para_2026-01-04_0420",
+            "channel_id": 182,
+            "start": 420,
+            "end": 510
+        },
+        {
+            "program_id": "369813_cnbc_sport_on_the_record_2026-01-04_0510",
+            "channel_id": 55,
+            "start": 510,
+            "end": 540
+        },
+        {
+            "program_id": "412115_zee_flix_2026-01-04_0540",
+            "channel_id": 102,
+            "start": 540,
+            "end": 570
+        },
+        {
+            "program_id": "485760_who_s_the_boss_2026-01-04_0570",
+            "channel_id": 210,
+            "start": 570,
+            "end": 630
+        },
+        {
+            "program_id": "412140_match_highlights_25_26_m_2026-01-04_0630",
+            "channel_id": 121,
+            "start": 630,
+            "end": 660
+        },
+        {
+            "program_id": "412103_chirikkum_thalika_ii_2026-01-04_0660",
+            "channel_id": 94,
+            "start": 660,
+            "end": 690
+        },
+        {
+            "program_id": "369735_bigg_boss_tamil_2026-01-04_0690",
+            "channel_id": 13,
+            "start": 690,
+            "end": 750
+        },
+        {
+            "program_id": "412157_where_worlds_collide_2026-01-04_0750",
+            "channel_id": 137,
+            "start": 750,
+            "end": 805
+        },
+        {
+            "program_id": "412156_shadow_love_2026-01-04_0805",
+            "channel_id": 136,
+            "start": 805,
+            "end": 850
+        },
+        {
+            "program_id": "412156_shadow_love_2026-01-04_0850",
+            "channel_id": 136,
+            "start": 850,
+            "end": 900
+        },
+        {
+            "program_id": "412151_ep_7_circuit_world_champ_2026-01-04_0900",
+            "channel_id": 132,
+            "start": 900,
+            "end": 930
+        },
+        {
+            "program_id": "412151_ep_8_circuit_world_champ_2026-01-04_0930",
+            "channel_id": 132,
+            "start": 930,
+            "end": 960
+        },
+        {
+            "program_id": "429984_mornings_with_jones_and__2026-01-04_0960",
+            "channel_id": 179,
+            "start": 960,
+            "end": 990
+        },
+        {
+            "program_id": "429984_mornings_with_jones_and__2026-01-04_0990",
+            "channel_id": 179,
+            "start": 990,
+            "end": 1020
+        },
+        {
+            "program_id": "369760_sour_salty_and_alive_s1_2026-01-04_1020",
+            "channel_id": 27,
+            "start": 1020,
+            "end": 1050
+        },
+        {
+            "program_id": "369760_sour_salty_and_alive_s1_2026-01-04_1050",
+            "channel_id": 27,
+            "start": 1050,
+            "end": 1080
+        },
+        {
+            "program_id": "369813_late_night_with_seth_mey_2026-01-04_1080",
+            "channel_id": 55,
+            "start": 1080,
+            "end": 1140
+        },
+        {
+            "program_id": "369757_sky_news_today_with_matt_2026-01-04_1140",
+            "channel_id": 25,
+            "start": 1140,
+            "end": 1170
+        },
+        {
+            "program_id": "369757_sky_news_today_with_matt_2026-01-04_1170",
+            "channel_id": 25,
+            "start": 1170,
+            "end": 1200
+        },
+        {
+            "program_id": "369750_laliga_2025_26_tbc_v_tbc_2026-01-04_1200",
+            "channel_id": 22,
+            "start": 1200,
+            "end": 1315
+        },
+        {
+            "program_id": "369822_premier_league_2025_26_2026-01-04_1315",
+            "channel_id": 61,
+            "start": 1315,
+            "end": 1430
+        }
+    ]
+}

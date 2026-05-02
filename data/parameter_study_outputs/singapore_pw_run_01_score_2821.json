@@ -1,0 +1,160 @@
+{
+    "scheduled_programs": [
+        {
+            "program_id": "412135_news_magazine_2026_2026-01-04_0060",
+            "channel_id": 117,
+            "start": 60,
+            "end": 90
+        },
+        {
+            "program_id": "412170_kaun_banega_crorepati_20_2026-01-04_0090",
+            "channel_id": 146,
+            "start": 90,
+            "end": 180
+        },
+        {
+            "program_id": "412170_indian_idol_2025_2026-01-04_0180",
+            "channel_id": 146,
+            "start": 180,
+            "end": 270
+        },
+        {
+            "program_id": "412192_free_ticket_2026-01-04_0270",
+            "channel_id": 165,
+            "start": 270,
+            "end": 300
+        },
+        {
+            "program_id": "412192_free_ticket_2026-01-04_0300",
+            "channel_id": 165,
+            "start": 300,
+            "end": 330
+        },
+        {
+            "program_id": "412110_jaane_anjaane_hum_mile_2026-01-04_0330",
+            "channel_id": 99,
+            "start": 330,
+            "end": 360
+        },
+        {
+            "program_id": "369722_news_2026-01-04_0360",
+            "channel_id": 5,
+            "start": 360,
+            "end": 415
+        },
+        {
+            "program_id": "412162_mr_funny_bone_2026-01-04_0415",
+            "channel_id": 140,
+            "start": 415,
+            "end": 510
+        },
+        {
+            "program_id": "412151_ep_201_the_owner_s_box_2026-01-04_0510",
+            "channel_id": 132,
+            "start": 510,
+            "end": 540
+        },
+        {
+            "program_id": "412200_sound_trek_2025_2026-01-04_0540",
+            "channel_id": 172,
+            "start": 540,
+            "end": 660
+        },
+        {
+            "program_id": "412128_news_2026-01-04_0660",
+            "channel_id": 111,
+            "start": 660,
+            "end": 690
+        },
+        {
+            "program_id": "369735_bigg_boss_tamil_2026-01-04_0690",
+            "channel_id": 13,
+            "start": 690,
+            "end": 750
+        },
+        {
+            "program_id": "412157_where_worlds_collide_2026-01-04_0750",
+            "channel_id": 137,
+            "start": 750,
+            "end": 805
+        },
+        {
+            "program_id": "412156_shadow_love_2026-01-04_0805",
+            "channel_id": 136,
+            "start": 805,
+            "end": 850
+        },
+        {
+            "program_id": "412156_shadow_love_2026-01-04_0850",
+            "channel_id": 136,
+            "start": 850,
+            "end": 900
+        },
+        {
+            "program_id": "412092_bloomberg_next_africa_2026-01-04_0900",
+            "channel_id": 84,
+            "start": 900,
+            "end": 930
+        },
+        {
+            "program_id": "369813_cnbc_sports_2026-01-04_0930",
+            "channel_id": 55,
+            "start": 930,
+            "end": 960
+        },
+        {
+            "program_id": "412110_kahani_har_ghar_ki_2026-01-04_0960",
+            "channel_id": 99,
+            "start": 960,
+            "end": 1020
+        },
+        {
+            "program_id": "369760_sour_salty_and_alive_s1_2026-01-04_1020",
+            "channel_id": 27,
+            "start": 1020,
+            "end": 1050
+        },
+        {
+            "program_id": "369760_sour_salty_and_alive_s1_2026-01-04_1050",
+            "channel_id": 27,
+            "start": 1050,
+            "end": 1080
+        },
+        {
+            "program_id": "412150_tuu_juliet_jatt_di_2026-01-04_1080",
+            "channel_id": 131,
+            "start": 1080,
+            "end": 1110
+        },
+        {
+            "program_id": "412165_rabat_2023_episode_1_2026-01-04_1110",
+            "channel_id": 142,
+            "start": 1110,
+            "end": 1140
+        },
+        {
+            "program_id": "429984_sky_news_today_with_matt_2026-01-04_1140",
+            "channel_id": 179,
+            "start": 1140,
+            "end": 1170
+        },
+        {
+            "program_id": "412128_movie_2026-01-04_1170",
+            "channel_id": 111,
+            "start": 1170,
+            "end": 1350
+        },
+        {
+            "program_id": "484245_experience_australia_2026-01-04_1350",
+            "channel_id": 209,
+            "start": 1350,
+            "end": 1380
+        },
+        {
+            "program_id": "412151_ep_10_heidelburg_materia_2026-01-04_1380",
+            "channel_id": 132,
+            "start": 1380,
+            "end": 1410
+        }
+    ]
+}

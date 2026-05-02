@@ -1,0 +1,64 @@
+{
+    "scheduled_programs": [
+        {
+            "program_id": "m_deportes7_es_m_deportes_8_2026-01-04_0000",
+            "channel_id": 143,
+            "start": 0,
+            "end": 720
+        },
+        {
+            "program_id": "laligatvbar3_es_primera_federaci_n_2026-01-04_0720",
+            "channel_id": 115,
+            "start": 720,
+            "end": 840
+        },
+        {
+            "program_id": "laligatvbar3_es_pr_ximo_partido_zaragoza_2026-01-04_0840",
+            "channel_id": 115,
+            "start": 840,
+            "end": 1110
+        },
+        {
+            "program_id": "laligatvbar3_es_laliga_hypermotion_2026-01-04_1110",
+            "channel_id": 115,
+            "start": 1110,
+            "end": 1230
+        },
+        {
+            "program_id": "telesur_es_telesur_noticias_2026-01-04_1230",
+            "channel_id": 255,
+            "start": 1230,
+            "end": 1260
+        },
+        {
+            "program_id": "aragontv_es_arag_n_noticias_2_edici__2026-01-04_1260",
+            "channel_id": 17,
+            "start": 1260,
+            "end": 1290
+        },
+        {
+            "program_id": "bbcworld_es_discovering_the_world_s__2026-01-04_1290",
+            "channel_id": 28,
+            "start": 1290,
+            "end": 1320
+        },
+        {
+            "program_id": "eurosport2_es_copa_del_mundo_de_esqu_d_2026-01-04_1320",
+            "channel_id": 96,
+            "start": 1320,
+            "end": 1350
+        },
+        {
+            "program_id": "eurosport2_es_copa_del_mundo_de_esqu_d_2026-01-04_1350",
+            "channel_id": 96,
+            "start": 1350,
+            "end": 1380
+        },
+        {
+            "program_id": "aljazeeraenglish_e_news_live_2026-01-04_1380",
+            "channel_id": 12,
+            "start": 1380,
+            "end": 1410
+        }
+    ]
+}

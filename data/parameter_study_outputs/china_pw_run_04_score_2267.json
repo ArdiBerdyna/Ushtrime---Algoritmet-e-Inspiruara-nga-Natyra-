@@ -1,0 +1,142 @@
+{
+    "scheduled_programs": [
+        {
+            "program_id": "378932__2026-01-04_0060",
+            "channel_id": 75,
+            "start": 60,
+            "end": 100
+        },
+        {
+            "program_id": "378932__2026-01-04_0100",
+            "channel_id": 75,
+            "start": 100,
+            "end": 140
+        },
+        {
+            "program_id": "490332_studio_2026-01-04_0150",
+            "channel_id": 966,
+            "start": 150,
+            "end": 300
+        },
+        {
+            "program_id": "457916__2026-01-04_0300",
+            "channel_id": 513,
+            "start": 300,
+            "end": 360
+        },
+        {
+            "program_id": "490324_0468_2026-01-04_0360",
+            "channel_id": 958,
+            "start": 360,
+            "end": 570
+        },
+        {
+            "program_id": "490604__2026-01-04_0570",
+            "channel_id": 1237,
+            "start": 570,
+            "end": 600
+        },
+        {
+            "program_id": "490315__2026-01-04_0600",
+            "channel_id": 949,
+            "start": 600,
+            "end": 660
+        },
+        {
+            "program_id": "490331_familyhistory_2026-01-04_0665",
+            "channel_id": 965,
+            "start": 665,
+            "end": 713
+        },
+        {
+            "program_id": "457868__2026-01-04_0713",
+            "channel_id": 467,
+            "start": 713,
+            "end": 757
+        },
+        {
+            "program_id": "457868__2026-01-04_0757",
+            "channel_id": 467,
+            "start": 757,
+            "end": 789
+        },
+        {
+            "program_id": "457757_por_macau_em_busca_do_pa_2026-01-04_0795",
+            "channel_id": 360,
+            "start": 795,
+            "end": 825
+        },
+        {
+            "program_id": "490446__2026-01-04_0825",
+            "channel_id": 1079,
+            "start": 825,
+            "end": 870
+        },
+        {
+            "program_id": "457757_telejornal_rtpi_diferido_2026-01-04_0870",
+            "channel_id": 360,
+            "start": 870,
+            "end": 930
+        },
+        {
+            "program_id": "378946__2026-01-04_0930",
+            "channel_id": 83,
+            "start": 930,
+            "end": 960
+        },
+        {
+            "program_id": "490331_hellofromstudiopark_2026-01-04_0960",
+            "channel_id": 965,
+            "start": 960,
+            "end": 1005
+        },
+        {
+            "program_id": "458133_33_2026-01-04_1005",
+            "channel_id": 722,
+            "start": 1005,
+            "end": 1055
+        },
+        {
+            "program_id": "458133_34_2026-01-04_1055",
+            "channel_id": 722,
+            "start": 1055,
+            "end": 1106
+        },
+        {
+            "program_id": "490331_nhknews_2026-01-04_1140",
+            "channel_id": 965,
+            "start": 1140,
+            "end": 1170
+        },
+        {
+            "program_id": "490561__2026-01-04_1170",
+            "channel_id": 1194,
+            "start": 1170,
+            "end": 1200
+        },
+        {
+            "program_id": "490543__2026-01-04_1200",
+            "channel_id": 1176,
+            "start": 1200,
+            "end": 1260
+        },
+        {
+            "program_id": "457757_telejornal_2026-01-04_1260",
+            "channel_id": 360,
+            "start": 1260,
+            "end": 1305
+        },
+        {
+            "program_id": "457757_na_nossa_natureza_estrei_2026-01-04_1305",
+            "channel_id": 360,
+            "start": 1305,
+            "end": 1360
+        },
+        {
+            "program_id": "457908__2026-01-04_1360",
+            "channel_id": 505,
+            "start": 1360,
+            "end": 1430
+        }
+    ]
+}
