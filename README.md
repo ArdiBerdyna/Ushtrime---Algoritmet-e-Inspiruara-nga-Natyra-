@@ -3,15 +3,13 @@
 <!-- Logo: direct SVG from Commons. If it does not load (firewall, rate limits), download the file from the Commons link below, save as docs/images/university-of-prishtina-logo.png in this repo, and point src to that path. -->
 <img src="https://upload.wikimedia.org/wikipedia/commons/e/e1/University_of_Prishtina_logo.svg" width="150" height="150" alt="University of Prishtina logo" />
 
-# Universiteti i Prishtines
+# University of Prishtina
 
 ## Fakulteti i Inxhinierisë Elektrike dhe Kompjuterike
 
 **Study Program:** Inxhinieri Kompjuterike dhe Softuerike – Master 
 **Course:** Algoritmet e Inspiruara nga Natyra 
 **Group:** 13  
-
-[Official logo file (Wikimedia Commons)](https://commons.wikimedia.org/wiki/File:University_of_Prishtina_logo.svg)
 
 </div>
 
