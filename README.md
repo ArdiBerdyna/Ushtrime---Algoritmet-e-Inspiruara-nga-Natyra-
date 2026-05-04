@@ -8,8 +8,8 @@
 ## Fakulteti i Inxhinierisë Elektrike dhe Kompjuterike
 
 **Programi i Studimit:** Inxhinieri Kompjuterike dhe Softuerike – Master  
-**Lënda:** Algoritmet e Inspiruara nga Natyra 
-**Grupi:** 13   
+**Lënda:** Algoritmet e Inspiruara nga Natyra  
+**Grupi:** 13  
 
 </div>
 
