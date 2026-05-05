@@ -67,7 +67,7 @@ Vlerat e **`total_score`** pas një ekzekutimi për secilin rast:
 
 **Lexim i shkurtër:** në këtë instancë dhe farë, **rritja e popullsisë/brezave** dhe **rritja e `gene_bonus_scale`** / **turnirit** ndihmuan score-in më shumë se opsioni minimal i kërkimit; **`gene_bonus_scale` i ulët** e ul score-in dukshëm sepse gjenet nuk ndihmojnë mjaftueshëm në diferencimin midis programeve të ngjashëm. Rezultatet **nuk janë universale**: në një instancë tjetër ose farë tjetër renditja mund të ndryshojë — prandaj përdoren studimet me shumë ekzekutime më poshtë.
 
-### Si ndikon konkretisht ndryshimi i parametrave në `total_score`
+### Si ndikon ndryshimi i parametrave në `total_score`
 
 Parametrat **nuk mbledhen në formulën e score-it**; ata ndikojnë **cilët programe futen në orar** gjatë dekodimit të kromozomit dhe **sa mirë GA arrin të gjente gjene** që mbështesin zgjedhjet me fitness të lartë. Prandaj efekti në score është **i tërthortë**: ndryshon **lista e programeve të planifikuar** → ndryshon **shuma e fitness-eve** (`total_score`).
 
