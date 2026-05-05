@@ -165,7 +165,7 @@ Score-i është **shuma e fitness-eve** të programeve të planifikuar (`total_s
 
 **Përmbledhje:** për këtë problem dhe këtë kufi kohor/plan eksperimenti, **parametrat “eksplorues” (B)** përputhen me **score më të lartë**; **parametrat “të shpejtë” (C)** me **score më të ulët** sepse reduktojnë fuqinë kërkuese të algoritmit. Kjo nuk garanton që B gjithmonë fiton në çdo instancë të ardhshme, por **shpjegon drejtimin** e ndryshimit në këtë matje.
 
-### Detaje sipas instancës (mesatarja / më e mira / devijimi std)
+### Detaje sipas instancës se caktuar (mesatarja / më e mira / devijimi std)
 
 **A_balanced_default**
 
