@@ -212,5 +212,201 @@ Score-i është **shuma e fitness-eve** të programeve të planifikuar (`total_s
 | singapore_pw.json | 2889 | 2752.7 | 119.24 |
 | spain_iptv.json | 1721 | 1674.0 | 31.02 |
 
+<!-- GA_LS_BENCHMARK_START -->
+--- Instanca 1/1: toy.json ---
+  run 01/10 | GA=380 | LS=380 | delta=+0 (+0.00% nga GA)
+  run 02/10 | GA=380 | LS=380 | delta=+0 (+0.00% nga GA)
+  run 03/10 | GA=380 | LS=380 | delta=+0 (+0.00% nga GA)
+  run 04/10 | GA=380 | LS=380 | delta=+0 (+0.00% nga GA)
+  run 05/10 | GA=380 | LS=380 | delta=+0 (+0.00% nga GA)
+  run 06/10 | GA=380 | LS=380 | delta=+0 (+0.00% nga GA)
+  run 07/10 | GA=380 | LS=380 | delta=+0 (+0.00% nga GA)
+  run 08/10 | GA=380 | LS=380 | delta=+0 (+0.00% nga GA)
+  run 09/10 | GA=380 | LS=380 | delta=+0 (+0.00% nga GA)
+  run 10/10 | GA=380 | LS=380 | delta=+0 (+0.00% nga GA)
+
+
+  --- Instanca 1/1: croatia_tv_input.json ---
+  run 01/10 | GA=2157 | LS=2157 | delta=+0 (+0.00% nga GA)
+  run 02/10 | GA=2079 | LS=2079 | delta=+0 (+0.00% nga GA)
+  run 03/10 | GA=2021 | LS=1831 | delta=-190 (-9.40% nga GA)
+  run 04/10 | GA=2021 | LS=2021 | delta=+0 (+0.00% nga GA)
+  run 05/10 | GA=2021 | LS=2021 | delta=+0 (+0.00% nga GA)
+  run 06/10 | GA=2021 | LS=2021 | delta=+0 (+0.00% nga GA)
+  run 07/10 | GA=2099 | LS=2099 | delta=+0 (+0.00% nga GA)
+  run 08/10 | GA=2138 | LS=2096 | delta=-42 (-1.96% nga GA)
+  run 09/10 | GA=2021 | LS=2099 | delta=+78 (+3.86% nga GA)
+  run 10/10 | GA=2021 | LS=2021 | delta=+0 (+0.00% nga GA)
+
+
+  --- Instanca 1/1: germany_tv_input.json ---
+  run 01/10 | GA=932 | LS=932 | delta=+0 (+0.00% nga GA)
+  run 02/10 | GA=932 | LS=932 | delta=+0 (+0.00% nga GA)
+  run 03/10 | GA=932 | LS=932 | delta=+0 (+0.00% nga GA)
+  run 04/10 | GA=932 | LS=932 | delta=+0 (+0.00% nga GA)
+  run 05/10 | GA=932 | LS=932 | delta=+0 (+0.00% nga GA)
+  run 06/10 | GA=932 | LS=932 | delta=+0 (+0.00% nga GA)
+  run 07/10 | GA=932 | LS=932 | delta=+0 (+0.00% nga GA)
+  run 08/10 | GA=932 | LS=932 | delta=+0 (+0.00% nga GA)
+  run 09/10 | GA=932 | LS=932 | delta=+0 (+0.00% nga GA)
+  run 10/10 | GA=932 | LS=932 | delta=+0 (+0.00% nga GA)
+
+  --- Instanca 1/1: australia_iptv.json ---
+  run 01/10 | GA=2582 | LS=2582 | delta=+0 (+0.00% nga GA)
+  run 02/10 | GA=2580 | LS=2580 | delta=+0 (+0.00% nga GA)
+  run 03/10 | GA=2827 | LS=2827 | delta=+0 (+0.00% nga GA)
+  run 04/10 | GA=2818 | LS=2827 | delta=+9 (+0.32% nga GA)
+  run 05/10 | GA=2675 | LS=2675 | delta=+0 (+0.00% nga GA)
+  run 06/10 | GA=2667 | LS=2654 | delta=-13 (-0.49% nga GA)
+  run 07/10 | GA=2752 | LS=2752 | delta=+0 (+0.00% nga GA)
+  run 08/10 | GA=2582 | LS=2582 | delta=+0 (+0.00% nga GA)
+  run 09/10 | GA=2675 | LS=2675 | delta=+0 (+0.00% nga GA)
+  run 10/10 | GA=2809 | LS=2811 | delta=+2 (+0.07% nga GA)
+
+  --- Instanca 1/1: kosovo_tv_input.json ---
+  run 01/10 | GA=1568 | LS=1607 | delta=+39 (+2.49% nga GA)
+  run 02/10 | GA=1597 | LS=1653 | delta=+56 (+3.51% nga GA)
+  run 03/10 | GA=1474 | LS=1536 | delta=+62 (+4.21% nga GA)
+  run 04/10 | GA=1497 | LS=1497 | delta=+0 (+0.00% nga GA)
+  run 05/10 | GA=1568 | LS=1536 | delta=-32 (-2.04% nga GA)
+  run 06/10 | GA=1500 | LS=1539 | delta=+39 (+2.60% nga GA)
+  run 07/10 | GA=1568 | LS=1607 | delta=+39 (+2.49% nga GA)
+  run 08/10 | GA=1476 | LS=1476 | delta=+0 (+0.00% nga GA)
+  run 09/10 | GA=1474 | LS=1474 | delta=+0 (+0.00% nga GA)
+  run 10/10 | GA=1476 | LS=1476 | delta=+0 (+0.00% nga GA)
+
+  --- Instanca 1/1: france_iptv.json ---
+  run 01/10 | GA=2595 | LS=2595 | delta=+0 (+0.00% nga GA)
+  run 02/10 | GA=2595 | LS=2595 | delta=+0 (+0.00% nga GA)
+  run 03/10 | GA=2649 | LS=2649 | delta=+0 (+0.00% nga GA)
+  run 04/10 | GA=2595 | LS=2595 | delta=+0 (+0.00% nga GA)
+  run 05/10 | GA=2595 | LS=2595 | delta=+0 (+0.00% nga GA)
+  run 06/10 | GA=2595 | LS=2595 | delta=+0 (+0.00% nga GA)
+  run 07/10 | GA=2595 | LS=2595 | delta=+0 (+0.00% nga GA)
+  run 08/10 | GA=2595 | LS=2595 | delta=+0 (+0.00% nga GA)
+  run 09/10 | GA=2595 | LS=2432 | delta=-163 (-6.28% nga GA)
+  run 10/10 | GA=2595 | LS=2436 | delta=-159 (-6.13% nga GA)
+
+  --- Instanca 1/1: netherlands_tv_input.json ---
+  run 01/10 | GA=1639 | LS=1608 | delta=-31 (-1.89% nga GA)
+  run 02/10 | GA=1589 | LS=1590 | delta=+1 (+0.06% nga GA)
+  run 03/10 | GA=1639 | LS=1589 | delta=-50 (-3.05% nga GA)
+  run 04/10 | GA=1656 | LS=1738 | delta=+82 (+4.95% nga GA)
+  run 05/10 | GA=1688 | LS=1621 | delta=-67 (-3.97% nga GA)
+  run 06/10 | GA=1726 | LS=1726 | delta=+0 (+0.00% nga GA)
+  run 07/10 | GA=1681 | LS=1689 | delta=+8 (+0.48% nga GA)
+  run 08/10 | GA=1590 | LS=1693 | delta=+103 (+6.48% nga GA)
+  run 09/10 | GA=1666 | LS=1612 | delta=-54 (-3.24% nga GA)
+  run 10/10 | GA=1639 | LS=1639 | delta=+0 (+0.00% nga GA)
+
+  --- Instanca 1/1: spain_iptv.json ---
+  run 01/10 | GA=2011 | LS=2132 | delta=+121 (+6.02% nga GA)
+  run 02/10 | GA=1833 | LS=1669 | delta=-164 (-8.95% nga GA)
+  run 03/10 | GA=2134 | LS=2134 | delta=+0 (+0.00% nga GA)
+  run 04/10 | GA=1743 | LS=1743 | delta=+0 (+0.00% nga GA)
+  run 05/10 | GA=1767 | LS=1771 | delta=+4 (+0.23% nga GA)
+  run 06/10 | GA=1838 | LS=1838 | delta=+0 (+0.00% nga GA)
+  run 07/10 | GA=1721 | LS=1721 | delta=+0 (+0.00% nga GA)
+  run 08/10 | GA=1830 | LS=1830 | delta=+0 (+0.00% nga GA)
+  run 09/10 | GA=1750 | LS=1745 | delta=-5 (-0.29% nga GA)
+  run 10/10 | GA=1831 | LS=1833 | delta=+2 (+0.11% nga GA)
+
+  --- Instanca 1/1: uk_tv_input.json ---
+  run 01/10 | GA=1930 | LS=1973 | delta=+43 (+2.23% nga GA)
+  run 02/10 | GA=1915 | LS=1928 | delta=+13 (+0.68% nga GA)
+  run 03/10 | GA=1846 | LS=1850 | delta=+4 (+0.22% nga GA)
+  run 04/10 | GA=1913 | LS=1917 | delta=+4 (+0.21% nga GA)
+  run 05/10 | GA=1882 | LS=1924 | delta=+42 (+2.23% nga GA)
+  run 06/10 | GA=1934 | LS=1940 | delta=+6 (+0.31% nga GA)
+  run 07/10 | GA=1844 | LS=1852 | delta=+8 (+0.43% nga GA)
+  run 08/10 | GA=1870 | LS=1870 | delta=+0 (+0.00% nga GA)
+  run 09/10 | GA=1795 | LS=1795 | delta=+0 (+0.00% nga GA)
+  run 10/10 | GA=1817 | LS=1882 | delta=+65 (+3.58% nga GA)
+  
+  --- Instanca 1/1: singapore_pw.json ---
+  run 01/10 | GA=3173 | LS=3205 | delta=+32 (+1.01% nga GA)
+  run 02/10 | GA=3070 | LS=3355 | delta=+285 (+9.28% nga GA)
+  run 03/10 | GA=3219 | LS=2958 | delta=-261 (-8.11% nga GA)
+  run 04/10 | GA=3063 | LS=3153 | delta=+90 (+2.94% nga GA)
+  run 05/10 | GA=3031 | LS=3372 | delta=+341 (+11.25% nga GA)
+  run 01/10 | GA=3173 | LS=3205 | delta=+32 (+1.01% nga GA)
+  run 02/10 | GA=3070 | LS=3355 | delta=+285 (+9.28% nga GA)
+  run 06/10 | GA=3160 | LS=3277 | delta=+117 (+3.70% nga GA)       
+  run 07/10 | GA=3188 | LS=3206 | delta=+18 (+0.56% nga GA)        
+  run 08/10 | GA=3321 | LS=3489 | delta=+168 (+5.06% nga GA)       
+  run 09/10 | GA=3349 | LS=3392 | delta=+43 (+1.28% nga GA)        
+  run 10/10 | GA=3207 | LS=3183 | delta=-24 (-0.75% nga GA) 
+
+--- Instanca 1/1: canada_pw.json ---
+  run 01/10 | GA=2383 | LS=2383 | delta=+0 (+0.00% nga GA)
+  run 02/10 | GA=2382 | LS=2382 | delta=+0 (+0.00% nga GA)
+  run 03/10 | GA=2302 | LS=1957 | delta=-345 (-14.99% nga GA)
+   run 04/10 | GA=2383 | LS=2375 | delta=-8 (-0.34% nga GA)
+  run 05/10 | GA=2383 | LS=2381 | delta=-2 (-0.08% nga GA)
+  run 06/10 | GA=2383 | LS=2383 | delta=+0 (+0.00% nga GA)
+  run 07/10 | GA=2373 | LS=2374 | delta=+1 (+0.04% nga GA)
+  run 08/10 | GA=2383 | LS=2383 | delta=+0 (+0.00% nga GA)
+  run 09/10 | GA=2383 | LS=2375 | delta=-8 (-0.34% nga GA)
+  run 10/10 | GA=2412 | LS=2376 | delta=-36 (-1.49% nga GA)
+
+
+  --- Instanca 1/1: uk_iptv.json ---
+  run 01/10 | GA=2500 | LS=2500 | delta=+0 (+0.00% nga GA)
+  run 02/10 | GA=2500 | LS=2500 | delta=+0 (+0.00% nga GA)
+  run 03/10 | GA=2500 | LS=2499 | delta=-1 (-0.04% nga GA)
+  run 04/10 | GA=2630 | LS=2630 | delta=+0 (+0.00% nga GA)
+  run 05/10 | GA=2486 | LS=2486 | delta=+0 (+0.00% nga GA)
+  run 06/10 | GA=2500 | LS=2500 | delta=+0 (+0.00% nga GA)
+  run 07/10 | GA=2521 | LS=2523 | delta=+2 (+0.08% nga GA)
+  run 08/10 | GA=2630 | LS=2630 | delta=+0 (+0.00% nga GA)
+  run 09/10 | GA=2630 | LS=2623 | delta=-7 (-0.27% nga GA)
+  run 10/10 | GA=2500 | LS=2500 | delta=+0 (+0.00% nga GA)
+
+--- Instanca 1/1: china_pw.json ---
+  run 01/10 | GA=2399 | LS=2410 | delta=+11 (+0.46% nga GA)
+  run 02/10 | GA=2418 | LS=2418 | delta=+0 (+0.00% nga GA)
+  run 03/10 | GA=2408 | LS=2112 | delta=-296 (-12.29% nga GA)       
+  run 04/10 | GA=2347 | LS=2218 | delta=-129 (-5.50% nga GA)        
+  run 05/10 | GA=2400 | LS=2407 | delta=+7 (+0.29% nga GA)
+  run 06/10 | GA=2414 | LS=2420 | delta=+6 (+0.25% nga GA)
+  run 07/10 | GA=2419 | LS=2229 | delta=-190 (-7.85% nga GA)        
+  run 08/10 | GA=2410 | LS=2340 | delta=-70 (-2.90% nga GA)
+  run 09/10 | GA=2405 | LS=2404 | delta=-1 (-0.04% nga GA)
+  run 10/10 | GA=2384 | LS=2441 | delta=+57 (+2.39% nga GA)
+
+  --- Instanca 1/1: usa_tv_input.json ---
+  run 01/10 | GA=2691 | LS=2455 | delta=-236 (-8.77% nga GA)        
+  run 02/10 | GA=2838 | LS=2470 | delta=-368 (-12.97% nga GA)       
+  run 03/10 | GA=2613 | LS=2661 | delta=+48 (+1.84% nga GA)
+  run 04/10 | GA=2711 | LS=2379 | delta=-332 (-12.25% nga GA)
+
+  --- Instanca 1/1: us_iptv.json ---
+  run 01/10 | GA=1632 | LS=1632 | delta=+0 (+0.00% nga GA)
+
+  --- Instanca 1/1: youtube_gold.json ---
+  run 01/10 | GA=14449 | LS=15577 | delta=+1128 (+7.81% nga GA)     
+  run 02/10 | GA=14454 | LS=15094 | delta=+640 (+4.43% nga GA)      
+  run 03/10 | GA=14901 | LS=15501 | delta=+600 (+4.03% nga GA)      
+  run 04/10 | GA=14062 | LS=15282 | delta=+1220 (+8.68% nga GA)     
+  run 05/10 | GA=14223 | LS=15139 | delta=+916 (+6.44% nga GA)      
+  run 06/10 | GA=14197 | LS=15250 | delta=+1053 (+7.42% nga GA)     
+  run 07/10 | GA=14128 | LS=14318 | delta=+190 (+1.34% nga GA)      
+  run 08/10 | GA=14367 | LS=16084 | delta=+1717 (+11.95% nga GA)
+  run 09/10 | GA=13653 | LS=14187 | delta=+534 (+3.91% nga GA)
+  run 10/10 | GA=14049 | LS=14413 | delta=+364 (+2.59% nga GA)
+
+  --- Instanca 1/1: youtube_premium.json ---
+  run 01/10 | GA=23745 | LS=25708 | delta=+1963 (+8.27% nga GA)     
+  run 02/10 | GA=24388 | LS=24227 | delta=-161 (-0.66% nga GA)      
+  run 03/10 | GA=23948 | LS=24606 | delta=+658 (+2.75% nga GA)
+  run 04/10 | GA=24241 | LS=22872 | delta=-1369 (-5.65% nga GA)
+  run 05/10 | GA=24784 | LS=26281 | delta=+1497 (+6.04% nga GA)
+  run 06/10 | GA=24630 | LS=25883 | delta=+1253 (+5.09% nga GA)
+  run 07/10 | GA=23927 | LS=24731 | delta=+804 (+3.36% nga GA)
+  run 08/10 | GA=24352 | LS=25625 | delta=+1273 (+5.23% nga GA)
+  run 09/10 | GA=24784 | LS=26281 | delta=+1497 (+6.04% nga GA)
+  run 10/10 | GA=24241 | LS=22872 | delta=-1369 (-5.65% nga GA)
+<!-- GA_LS_BENCHMARK_END -->
+
 ---
 
