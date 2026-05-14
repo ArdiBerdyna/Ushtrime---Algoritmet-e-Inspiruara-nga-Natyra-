@@ -375,14 +375,27 @@ Score-i është **shuma e fitness-eve** të programeve të planifikuar (`total_s
   run 10/10 | GA=2384 | LS=2441 | delta=+57 (+2.39% nga GA)
 
   --- Instanca 1/1: usa_tv_input.json ---
-  run 01/10 | GA=2691 | LS=2455 | delta=-236 (-8.77% nga GA)        
-  run 02/10 | GA=2838 | LS=2470 | delta=-368 (-12.97% nga GA)       
+  run 01/10 | GA=2691 | LS=2695 | delta=+4 (+0.15% nga GA)
+  run 02/10 | GA=2838 | LS=2847 | delta=+9 (+0.32% nga GA)
   run 03/10 | GA=2613 | LS=2661 | delta=+48 (+1.84% nga GA)
-  run 04/10 | GA=2711 | LS=2379 | delta=-332 (-12.25% nga GA)
-
+  run 04/10 | GA=2711 | LS=2712 | delta=+1 (+0.04% nga GA)
+  run 05/10 | GA=2740 | LS=2740 | delta=+0 (+0.00% nga GA)
+  run 06/10 | GA=2737 | LS=2842 | delta=+105 (+3.84% nga GA)
+  run 07/10 | GA=2823 | LS=2829 | delta=+6 (+0.21% nga GA)
+  run 08/10 | GA=2640 | LS=2648 | delta=+8 (+0.30% nga GA)
+  run 09/10 | GA=2613 | LS=2641 | delta=+28 (+1.07% nga GA)
+  run 10/10 | GA=2913 | LS=2917 | delta=+4 (+0.14% nga GA)
   --- Instanca 1/1: us_iptv.json ---
   run 01/10 | GA=1632 | LS=1632 | delta=+0 (+0.00% nga GA)
-
+  run 02/10 | GA=1632 | LS=1632 | delta=+0 (+0.00% nga GA)
+  run 03/10 | GA=1632 | LS=1632 | delta=+0 (+0.00% nga GA)
+  run 04/10 | GA=1632 | LS=1632 | delta=+0 (+0.00% nga GA)
+  run 05/10 | GA=1632 | LS=1632 | delta=+0 (+0.00% nga GA)
+  run 06/10 | GA=1632 | LS=1632 | delta=+0 (+0.00% nga GA)
+  run 07/10 | GA=1632 | LS=1632 | delta=+0 (+0.00% nga GA)
+  run 08/10 | GA=1632 | LS=1632 | delta=+0 (+0.00% nga GA)
+  run 09/10 | GA=1632 | LS=1632 | delta=+0 (+0.00% nga GA)
+  run 10/10 | GA=1632 | LS=1632 | delta=+0 (+0.00% nga GA)
   --- Instanca 1/1: youtube_gold.json ---
   run 01/10 | GA=14449 | LS=15577 | delta=+1128 (+7.81% nga GA)     
   run 02/10 | GA=14454 | LS=15094 | delta=+640 (+4.43% nga GA)      
@@ -409,4 +422,7 @@ Score-i është **shuma e fitness-eve** të programeve të planifikuar (`total_s
 <!-- GA_LS_BENCHMARK_END -->
 
 ---
+
+
+
 
